@@ -1,0 +1,14 @@
+{
+  "name": "luxebook/backend",
+  "description": "LuxeBook Appointment App Backend",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
